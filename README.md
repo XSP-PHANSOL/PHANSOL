@@ -53,7 +53,7 @@ PHANSOL features a **strict maximum supply of 1,000,000,000 (1 Billion) $PHAN**.
 | **Marketing & Partnerships**| 30,000,000     | 3.0%      | Strategic growth, listings, and ecosystem collaborations |
 | **Targeted Reduction**      | 120M – 150M    | 12–15%    | Milestone and community-voted burns (sourced primarily from Ecosystem Reserve) |
 
-**Track live supply, holders, and market data:** [DexScreener]([https://dexscreener.com](https://dexscreener.com/solana/6dec3uwjlnwtpausunjpljlgujjs2xtex9pvcb5h93rl)) (search $PHAN)
+**Track live supply, holders, and market data:** [DexScreener](https://dexscreener.com/solana/6dec3uwjlnwtpausunjpljlgujjs2xtex9pvcb5h93rl) (search $PHAN)
 
 ---
 
